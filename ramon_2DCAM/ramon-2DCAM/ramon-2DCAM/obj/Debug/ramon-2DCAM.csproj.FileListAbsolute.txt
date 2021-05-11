@@ -1,0 +1,10 @@
+C:\Users\haltokyo\Documents\自作レーザー加工機\ramon_2DCAM\ramon-2DCAM\ramon-2DCAM\bin\Debug\ramon-2DCAM.exe.config
+C:\Users\haltokyo\Documents\自作レーザー加工機\ramon_2DCAM\ramon-2DCAM\ramon-2DCAM\bin\Debug\ramon-2DCAM.exe
+C:\Users\haltokyo\Documents\自作レーザー加工機\ramon_2DCAM\ramon-2DCAM\ramon-2DCAM\bin\Debug\ramon-2DCAM.pdb
+C:\Users\haltokyo\Documents\自作レーザー加工機\ramon_2DCAM\ramon-2DCAM\ramon-2DCAM\obj\Debug\ramon-2DCAM.csprojAssemblyReference.cache
+C:\Users\haltokyo\Documents\自作レーザー加工機\ramon_2DCAM\ramon-2DCAM\ramon-2DCAM\obj\Debug\ramon_2DCAM.Properties.Resources.resources
+C:\Users\haltokyo\Documents\自作レーザー加工機\ramon_2DCAM\ramon-2DCAM\ramon-2DCAM\obj\Debug\ramon-2DCAM.csproj.GenerateResource.cache
+C:\Users\haltokyo\Documents\自作レーザー加工機\ramon_2DCAM\ramon-2DCAM\ramon-2DCAM\obj\Debug\ramon-2DCAM.csproj.CoreCompileInputs.cache
+C:\Users\haltokyo\Documents\自作レーザー加工機\ramon_2DCAM\ramon-2DCAM\ramon-2DCAM\obj\Debug\ramon-2DCAM.exe
+C:\Users\haltokyo\Documents\自作レーザー加工機\ramon_2DCAM\ramon-2DCAM\ramon-2DCAM\obj\Debug\ramon-2DCAM.pdb
+C:\Users\haltokyo\Documents\自作レーザー加工機\ramon_2DCAM\ramon-2DCAM\ramon-2DCAM\obj\Debug\ramon_2DCAM.ramon_main.resources
